@@ -21,9 +21,14 @@ Explore a suite of powerful mail tools designed to simplify your email managemen
  - Mail List Organizer: Organize and format your mail lists with ease, improving efficiency and data management.
  - Join us today and unlock the potential of these tools to revolutionize your mailing experience! 📧💫🚀
 
-# Installation
- - Install dependencies:
+## Installation
+
+- Install dependencies:
+
+```shell
 pip install -r requirements.txt
+
+
 
 # Run Files:
 # Instructions to run are written inside each script
