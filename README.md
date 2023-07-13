@@ -20,3 +20,10 @@ Explore a suite of powerful mail tools designed to simplify your email managemen
  - Mail Address Verifier: Verify the authenticity of mail addresses, ensuring your messages reach the right inboxes.
  - Mail List Organizer: Organize and format your mail lists with ease, improving efficiency and data management.
  - Join us today and unlock the potential of these tools to revolutionize your mailing experience! 📧💫🚀
+
+# Installation
+ - Install dependencies:
+pip install -r requirements.txt
+
+# Run Files:
+# Instructions to run are written inside each script
