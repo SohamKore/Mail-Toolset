@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/SohamKore/Mail-Toolset/assets/119067189/f2711f1b-7e59-4acb-baeb-5f66ed56dc1a" alt="Bulk mailer" height="100px">
+  <img style="border-bottom:3px solid white;" src="https://github.com/SohamKore/Mail-Toolset/assets/119067189/f2711f1b-7e59-4acb-baeb-5f66ed56dc1a" alt="Bulk mailer" height="100px">
 </p>
 
 
