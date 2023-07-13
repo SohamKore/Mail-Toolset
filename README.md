@@ -1,10 +1,12 @@
-<a href="https://www.buymeacoffee.com/SohamK">
+
 <p align="center">
   <kbd>
+    <a href="https://www.buymeacoffee.com/SohamK">
     <img src="https://github.com/SohamKore/Mail-Toolset/assets/119067189/f2711f1b-7e59-4acb-baeb-5f66ed56dc1a" alt="Bulk mailer" height="100px">
+  </a>
   </kbd>
 </p>
-</a>
+
 
 
 Multiple mail tools: Generate random mail list from a list of names, Send bulk emails, Send mails with html template, Verify mail addresses, and organize your mail lists with ease. Revolutionize your mailing experience today! 📧💫🚀
