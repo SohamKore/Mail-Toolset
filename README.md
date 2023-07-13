@@ -27,6 +27,7 @@ Explore a suite of powerful mail tools designed to simplify your email managemen
 
 ```shell
 pip install -r requirements.txt
+```
 
 
 
