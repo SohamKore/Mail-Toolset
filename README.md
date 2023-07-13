@@ -1,6 +1,9 @@
 <p align="center">
-  <img style="border-bottom:3px solid white;" src="https://github.com/SohamKore/Mail-Toolset/assets/119067189/f2711f1b-7e59-4acb-baeb-5f66ed56dc1a" alt="Bulk mailer" height="100px">
+  <kbd>
+    <img src="https://github.com/SohamKore/Mail-Toolset/assets/119067189/f2711f1b-7e59-4acb-baeb-5f66ed56dc1a" alt="Bulk mailer" height="100px">
+  </kbd>
 </p>
+
 
 
 Multiple mail tools: Generate random mail list from a list of names, Send bulk emails, Send mails with html template, Verify mail addresses, and organize your mail lists with ease. Revolutionize your mailing experience today! 📧💫🚀
