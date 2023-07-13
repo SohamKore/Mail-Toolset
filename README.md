@@ -1,10 +1,10 @@
 
 <p align="center">
+      <a href="https://www.buymeacoffee.com/SohamK">
   <kbd>
-    <a href="https://www.buymeacoffee.com/SohamK">
     <img src="https://github.com/SohamKore/Mail-Toolset/assets/119067189/f2711f1b-7e59-4acb-baeb-5f66ed56dc1a" alt="Bulk mailer" height="100px">
-  </a>
   </kbd>
+    </a>
 </p>
 
 
