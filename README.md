@@ -32,4 +32,4 @@ pip install -r requirements.txt
 
 
 # Run Files:
-# Instructions to run tools are written inside each script
+# Instructions for running each tool are provided within their respective scripts."
